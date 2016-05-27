@@ -1,6 +1,6 @@
 {
 	"name": "yamvish-app",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "basical yamvish app stuffs : everything you need to bootstrap your app browser side, server side or both",
 	"main": "index.js",
 	"scripts": {
